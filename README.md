@@ -1,4 +1,4 @@
-![Uploading BannerTutorial-Recuperato.png…]()
+![BannerTutorial-Recuperato](https://github.com/user-attachments/assets/aae6ba83-808a-459c-a316-c2b5bf09e4e9)
 
 Benvenuto nel mio angolo di GitHub! Sono Biagio Saccone, un appassionato di Python, aspirante Machine Learning Engineer e content creator. 🎥💻
 
